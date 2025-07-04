@@ -1,0 +1,16 @@
+dept_id,dept_name,location,budget,num_employees,head
+6,Legal,Hyderabad,3500000,12,Priya Singh
+7,Sales,Kolkata,7000000,30,Amitabh Das
+8,Procurement,Ahmedabad,3000000,18,Rohit Sinha
+9,Customer Service,Jaipur,2800000,22,Meena Gupta
+10,Logistics,Lucknow,3200000,16,Vikas Kumar
+11,Research,Chandigarh,9000000,28,Sonal Kapoor
+12,Administration,Bhopal,2100000,10,Manoj Joshi
+13,Public Relations,Patna,2600000,14,Kavita Rao
+14,Quality Assurance,Indore,3300000,17,Suresh Nair
+15,Training,Nagpur,2400000,11,Neha Agarwal
+16,Security,Coimbatore,1800000,8,Arvind Pillai
+17,Design,Visakhapatnam,3700000,13,Ritu Sharma
+18,Engineering,Surat,8500000,38,Tarun Patel
+19,Business Development,Kanpur,4100000,19,Shalini Mishra
+20,Strategy,Thiruvananthapuram,5200000,21,Girish Menon

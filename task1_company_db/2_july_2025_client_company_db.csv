@@ -1,0 +1,21 @@
+client_id,client_name,industry,contact_no,credit_limit,country
+6,AquaPure,Water Treatment,9123984756,400000,Australia
+7,MediCore,Healthcare,9876123450,600000,USA
+8,EcoWatt,Renewable Energy,9198765432,550000,India
+9,UrbanNest,Real Estate,9811223344,350000,Canada
+10,FinEdge,Finance,9123459876,800000,UK
+11,EduBridge,Education,9988776655,200000,Germany
+12,Foodies,Food & Beverage,9876540987,300000,France
+13,LogiTrack,Logistics,9123098765,500000,USA
+14,HealthFirst,Healthcare,9812340987,450000,India
+15,BrightSpark,Electronics,9991234567,600000,Japan
+16,AgroPlus,Agro,9123987654,250000,Brazil
+17,SafeGuard,Security,9876123987,400000,UK
+18,TravelEase,Travel,9812765432,350000,Australia
+19,BuildRight,Construction,9123456780,700000,Canada
+20,MarketMinds,Marketing,9988123456,300000,USA
+21,SoftVision,Software,9876543211,500000,India
+22,GreenLeaf,Agro,9123984757,300000,Germany
+23,SkyHigh,Aviation,9812345679,900000,France
+24,InfoWave,IT Services,9998887777,450000,UK
+25,BluePeak,Consulting,9876543212,250000,USA

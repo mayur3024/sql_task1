@@ -1,0 +1,16 @@
+product_id,product_name,category,price,stock_qty,supplier
+6,Wireless Mouse,Electronics,1200,300,GadgetMart
+7,Desk Lamp,Furniture,2500,90,LightHouse
+8,USB-C Hub,Electronics,1800,250,TechSupply Co.
+9,Filing Cabinet,Furniture,9500,60,ComfortFurn
+10,Notebook Pack,Stationery,500,400,OfficeGear
+11,Bluetooth Speaker,Electronics,3500,130,GadgetMart
+12,Ergonomic Keyboard,Electronics,2200,170,TechSupply Co.
+13,Conference Table,Furniture,25000,20,ComfortFurn
+14,Projector,Electronics,42000,35,ScreenWorld
+15,Sticky Notes,Stationery,200,600,OfficeGear
+16,Pen Set,Stationery,350,500,OfficeGear
+17,Webcam HD,Electronics,3200,110,TechSupply Co.
+18,Bookshelf,Furniture,8000,40,ComfortFurn
+19,Laser Printer,Electronics,18000,50,ScreenWorld
+20,Desk Organizer,Stationery,900,220,OfficeGear
